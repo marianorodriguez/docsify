@@ -1,6 +1,6 @@
 {
-  "name": "docsify",
-  "version": "4.9.4",
+  "name": "docsify-patched",
+  "version": "4.9.5",
   "description": "A magical documentation generator.",
   "author": {
     "name": "qingwei-li",
